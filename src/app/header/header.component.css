@@ -1,0 +1,34 @@
+.header{
+  background-color: #2f476d;
+  width: 100%;
+  height: 60px;
+  position: fixed;
+  top: 0;
+}
+
+.header-logo {
+  width: 170px;
+  height: 60px;
+  padding: 5px 2px 1px 0;
+  border-right: 1px solid white;
+}
+
+.header .header-logo img {
+  height: 40px;
+}
+
+.main-menu {
+  position: fixed;
+  display: block;
+  height: 60px;
+  padding: 0;
+  margin: 0;
+  top: 0;
+}
+
+.main-menu li {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 7px 0 0 0;
+}
+
